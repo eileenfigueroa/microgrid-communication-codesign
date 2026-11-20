@@ -1,0 +1,28 @@
+# MATLAB autosave and temporary files
+*.asv
+*.autosave
+*.m~
+*.bak
+
+# MATLAB generated folders
+slprj/
+codegen/
+cache/
+work/
+html/
+
+# MATLAB compiled files
+*.mex*
+*.p
+
+# Simulink generated files
+*.slxc
+*.autosave
+
+# Operating-system files
+.DS_Store
+Thumbs.db
+
+# Editor settings
+.vscode/
+.idea/
